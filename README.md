@@ -1,3 +1,4 @@
+dev
 # AZ-900 Fundamentals
 
 Azure certifications are divided into three levels funcamental, associate and expert. AZ-900 is the first certification that unlocks all other levels of azure certificates.
